@@ -7,9 +7,8 @@
 ## Steps
 - split data for training and testing 
 - Reduce the Dimensionality from 136452 to 60
-- applied Principle Component Analysis and Image processing f
+- applied Principle Component Analysis and Image processing techniques
 - applied KNN classifier and cross- validdation using GridsearchCV
-•	Got best test data accuracy as 0.89% and 0.97% accuracy on training data while choosing no. of neighbours as 3.
 
 ## Conclusion
 - test data accuracy = 0.89
